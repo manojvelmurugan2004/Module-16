@@ -112,7 +112,8 @@ B.print_tree(B.root)
 
 ## OUTPUT :
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b6b92373-df6a-4836-9745-2541391bb473)
+
 
 ## RESULT :
 
